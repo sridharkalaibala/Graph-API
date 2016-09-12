@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <title> Facebook Graph API </title>
 <style>
 .flex-container {
     display: -webkit-flex;
